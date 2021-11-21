@@ -10,7 +10,7 @@
 
 
 
-    <img width="1024" height="576" src="910.gif"><br>
+    <img width="1224" height="576" src="910.gif"><br>
   <!--大海報-->
 
 ||<a href="#簡介">策展主題說明 </a>||
