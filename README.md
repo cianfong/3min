@@ -46,21 +46,21 @@ target="_blank">三民書局按此</a>||
     
  <tr>
     <td style="background-color:#BBFFFF" target="_blank"><center>Dio</center><p>自我介紹:<br>
-想不到吧，策展的不是別人，而是我Dio哒</td>
+想不到吧，策展的不是別人，而是我Dio哒
        <td><img width ="300" height="250" src="OIP.jfif"></td>
  </tr>
 <!--人物介紹其一-->
 
  <tr>
 <td style="background-color:#BBFFFF"><center>夜神月</center><p>自我介紹:<br>
-如此完美，其他人做得到嗎?</td>
+如此完美，其他人做得到嗎?
  <td><img width ="400" height="250" src="OIP11.jpg"></td>
  </tr>
 <!--人物介紹其二-->
 
 <tr>
 <td style="background-color:#BBFFFF"><center>江户川柯南</center><p>自我介紹:<br>
-你來到此地只有一個真相，肯定是受到我的吸引了</td>
+你來到此地只有一個真相，肯定是受到我的吸引了
  <td><img width ="350" height="250" src="OIP22.jpg"></td>
 </tr>
      <!--人物介紹其三-->
