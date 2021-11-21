@@ -45,6 +45,7 @@ target="_blank">三民書局按此</a>||
     
  <table border="1">
 <!--表格-->
+    
  <tr>
     <td style="background-color:#BBFFFF"target="_blank"><center>Dio</center><p>自我介紹:<br>
 想不到吧，策展的不是別人，而是我Dio哒</td>
@@ -65,7 +66,7 @@ target="_blank">三民書局按此</a>||
  <td><img width ="350"height="250" src="OIP22.jpg"></td>
 </tr>
      <!--人物介紹其三-->
-
+</table>
 
 
 <h1>
