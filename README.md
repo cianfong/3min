@@ -45,7 +45,7 @@ target="_blank">三民書局按此</a>||
 <!--表格-->
     
  <tr>
-    <td style="background-color:#BBFFFF"target="_blank"><center>Dio</center><p>自我介紹:<br>
+    <td style="background-color:#BBFFFF" target="_blank"><center>Dio</center><p>自我介紹:<br>
 想不到吧，策展的不是別人，而是我Dio哒</td>
        <td><img width ="300"height="250" src="OIP.jfif"></td>
  </tr>
