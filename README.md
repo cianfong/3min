@@ -12,11 +12,11 @@
 
 
 
-    <img width="1024" height="576" src="https://activity.sanmin.com.tw/promotions/littlehilltop/home/top.gif"><br>
+    <img width="1024" height="576" src="910.gif"><br>
   <!--大海報-->
 
 ||<a href="#簡介">策展主題說明 </a>||
-<a href="#創作團隊"> 團隊介紹</a>||<a target="_blank" href="https://cianfong.github.io/book/">特賣書點此連結</a>||
+<a href="#創作團隊"> 團隊介紹</a>||<a target="_blank" href="書展.htm">特賣書點此連結</a>||
   <a href="https://www.sanmin.com.tw/#"
 target="_blank">三民書局按此</a>||
 <!--三民書局連結-->
@@ -30,21 +30,21 @@ target="_blank">三民書局按此</a>||
  <td style="background-color:#BBFFFF"target="_blank"><center>Dio</center><p>
 自我介紹:<br>
 想不到吧，策展的不是別人，而是我Dio哒</td>
- <td><img width ="300"height="250" src="https://th.bing.com/th/id/OIP.zhPKmhI0KPTww0V1KOvqqwHaE1?w=236&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"></td>
+ <td><img width ="300"height="250" src="OIP.jfif"></td>
  </tr>
 <!--人物介紹其一-->
 
  <tr>
 <td style="background-color:#BBFFFF"><center>夜神月</center><p>自我介紹:<br>
 如此完美，其他人做得到嗎?</td>
- <td><img width ="400"height="250" src=https://th.bing.com/th/id/OIP.PAAH_KD1rDTNb6wKhNmeOgHaEh?w=278&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7></td>
+ <td><img width ="400"height="250" src="OIP11.jpg"></td>
  </tr>
 <!--人物介紹其二-->
 
 
 <td style="background-color:#BBFFFF"><center>江户川柯南</center><p>自我介紹:<br>
 你來到此地只有一個真相，肯定是受到我的吸引了</td>
- <td><img width ="350"height="250" src=https://th.bing.com/th/id/OIP.UN5jWg_AmJLD8ROFaz50OAEsCo?w=272&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7></td>
+ <td><img width ="350"height="250" src="OIP22.jpg"></td>
  <!--人物介紹其三-->
 
  <h2 id="簡介">台北國際書展</h2>
