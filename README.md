@@ -38,7 +38,7 @@ target="_blank">三民書局按此</a>||
 
 
 
- <tr><a id=創作團隊>
+ <a id=創作團隊>
   <a>策展團隊</a>
     
  <table border="1">
