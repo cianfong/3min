@@ -16,7 +16,7 @@
   <!--大海報-->
 
 ||<a href="#簡介">策展主題說明 </a>||
-<a href="#創作團隊"> 團隊介紹</a>||<a target="_blank" href="書展.htm">特賣書點此連結</a>||
+<a href="#創作團隊"> 團隊介紹</a>||<a target="_blank" href="https://cianfong.github.io/book/">特賣書點此連結</a>||
   <a href="https://www.sanmin.com.tw/#"
 target="_blank">三民書局按此</a>||
 <!--三民書局連結-->
