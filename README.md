@@ -1,5 +1,3 @@
-# wwww
-其中作業
 <!DOCTYPE html>
 <html>
 <head>
@@ -48,7 +46,7 @@ target="_blank">三民書局按此</a>||
     
  <tr>
     <td style="background-color:#BBFFFF"target="_blank"><center>Dio</center><p>自我介紹:<br>
-想不到吧，策展的不是別人，而是我Dio哒</td>
+想不到吧，策展的不是別人，而是我Dio哒
  <td><img width ="300"height="250" src="OIP.jfif"></td>
  </tr>
 <!--人物介紹其一-->
