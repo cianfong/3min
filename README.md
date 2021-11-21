@@ -38,7 +38,11 @@ target="_blank">三民書局按此</a>||
 
 
 
- <a id=創作團隊>
+
+</center>
+</body>
+   
+    <a id=創作團隊>
   策展團隊</a>
     
  <table border="1">
@@ -67,6 +71,4 @@ target="_blank">三民書局按此</a>||
 </table>
 
 
-</center>
-</body>
  </htm1>
