@@ -67,8 +67,6 @@ target="_blank">三民書局按此</a>||
 </table>
 
 
-<h1>
-   期中報告，三民書展</h1>
 </center>
 </body>
  </htm1>
