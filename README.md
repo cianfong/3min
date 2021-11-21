@@ -34,15 +34,8 @@ target="_blank">三民書局按此</a>||
 內容是形塑魅力和吸引力的關鍵。在此理念前提下，我們將與讀者、出版人共同展開新的閱讀生活的體驗，激發鼓舞全民閱讀熱情、提昇閱讀層次、開展新型態的閱讀嘉年華會。
  
 我們將持續以數位出版為焦點，規畫數位出版主題館、數位出版專業論壇；我們將廣邀國際出版專業人士，舉行書籍設計、版權經紀工作坊和童書專業論壇，增進出版專業與交流。
-
-
-
-
-
-</center>
-</body>
    
-    <a id=創作團隊>
+      <a id=創作團隊>
   策展團隊</a>
     
  <table border="1">
@@ -52,23 +45,28 @@ target="_blank">三民書局按此</a>||
     <td style="background-color:#BBFFFF" target="_blank"><center>Dio</center><p>自我介紹:<br>
 想不到吧，策展的不是別人，而是我Dio哒
        <td><img width ="300" height="250" src="OIP.jfif"></td>
- </tr>
 <!--人物介紹其一-->
 
  <tr>
 <td style="background-color:#BBFFFF"><center>夜神月</center><p>自我介紹:<br>
 如此完美，其他人做得到嗎?
  <td><img width ="400" height="250" src="OIP11.jpg"></td>
- </tr>
 <!--人物介紹其二-->
 
 <tr>
 <td style="background-color:#BBFFFF"><center>江户川柯南</center><p>自我介紹:<br>
 你來到此地只有一個真相，肯定是受到我的吸引了
  <td><img width ="350" height="250" src="OIP22.jpg"></td>
-</tr>
      <!--人物介紹其三-->
-</table>
 
 
- </htm1>
+
+
+
+
+</center>
+</body>
+   
+ 
+
+ </html>
